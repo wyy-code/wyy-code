@@ -14,10 +14,9 @@ I am from Beijing, China and currently finishing my Computer Technology Master d
 - Research Intern in 2012 Lab, Huawei 
 
 ## 💪 Research I am doing about:
-- Knowledge Graph
 - Entity Alignment
 - Time Series Anomaly Detection
-- Multi-modal Learning
+- Multi-modal Knowledge Graph
 - Large Language Model
 
 #### 💻 Open source work stats: 
