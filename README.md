@@ -15,8 +15,9 @@ I am from Beijing, China and currently finishing my Computer Technology Master d
 
 ## 💪 Research I am doing about:
 - Entity Alignment
+- Knowledge Graph
 - Time Series Anomaly Detection
-- Multi-modal Knowledge Graph
+- Multi-modal learning
 - Large Language Model
 
 #### 💻 Open source work stats: 
