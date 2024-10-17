@@ -8,7 +8,7 @@ This is Yuanyi Wang 😃 !
 
 I am from Beijing, China and currently finishing my Computer Technology Master degree 🏫 in the Beijing University of Posts and Telecommunications (BUPT)! I love to explore and learn about new things. 
 
-[Personal Homepage](https://wyy-code.github.io/)
+This [![Personal Homepage](https://img.shields.io/badge/Homepage-yellow)](https://wyy-code.github.io/)
 
 ## 🌱 Things I am currently working on: 
 - Finish my Computer Technology Master Degree in BUPT 
