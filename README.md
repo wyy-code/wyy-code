@@ -5,10 +5,11 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=zh-CN&user=kmbs6HIAAAAJ&view_op=list_works&gmla=ALUCkoXA3qPKuxNxMzk-9Wc2_0wMbR5escBa0qz0dwoX1Jywx3bvOZsGUvxI37j8s5s3yL8hVkm_y4nqPXorF1AZ5mOeVpoQjQK-Ksmz0Mg)
 
 
-This is Yuanyi Wang 😃 !  [![Personal Homepage](https://img.shields.io/badge/Homepage-yellow)](https://wyy-code.github.io/)
+This is Yuanyi Wang 😃 ! 
 
 I am from Beijing, China and currently finishing my Computer Technology Master degree 🏫 in the Beijing University of Posts and Telecommunications (BUPT)! I love to explore and learn about new things. 
 
+[![Personal Homepage](https://img.shields.io/badge/Homepage-yellow)](https://wyy-code.github.io/)
 
 ## 🌱 Things I am currently working on: 
 - Finish my Computer Technology Master Degree in BUPT 
