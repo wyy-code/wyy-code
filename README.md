@@ -13,11 +13,9 @@ I am from Beijing, China and am currently finishing a Master's degree in Compute
 
 ## 🌱 Things I am currently working on: 
 - Finish my Computer Technology Master Degree in BUPT 
-- **Looking for a PhD position**
-- Research Intern in 2012 Lab, Huawei 
 
 ## 💪 Research I am doing about:
-- Entity Alignment
+- Model Fusion & Distillation
 - Knowledge Graphs
 - Multi-modal learning
 - Large Language Model
