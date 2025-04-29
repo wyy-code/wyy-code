@@ -20,6 +20,6 @@ I am from Beijing, China and am currently finishing a Master's degree in Compute
 - Multi-modal learning
 - Large Language Model
 
-% #### 💻 Open source work stats: 
-% [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyy-code)](https://github.com/anuraghazra/github-readme-stats)
+#### 💻 Open source work stats: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wyy-code)](https://github.com/anuraghazra/github-readme-stats)
 
